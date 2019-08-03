@@ -9,26 +9,28 @@ Trois utilisateurs :
 
 ### Le gestionnaire de la flotte
 
-## Notes
-
 - Les PC offerts ont en moyenne 2-5 ans de durée de vie après au reconditionnement (recyclés a posteriori localement),
 - Les utilisateurs (personnes ou organisations) doivent avoir confiance dans les PC utilisés, notre système de localisation/monitoring est une garantie de qualité.
 - Le gestionnaire local ne DEMANDE pas un remplacement (il signale/communique qu'un pc du réseau est out), Close The Gap est informé et procéde au remplacement logistique. 
 - Les gestionnaires locaux & Close The Gap devraient avoir un système de suivi : en plus d'un avantage logistique sur l'état/statut (! fonctionne/ne fonctionne pas) du PC, ils veulent savoir où ils vont et à quel but, quels projets (!) ils auront servi.
 - Il faut mettre en place un système de monitoring géolocalisé du statut de PC et son utilisation (projet + infos users de base)
 
-## 📜 Storytelling 
+#### 📜 Storytelling 
 Ils reçoivent les ordinateurs des partenaires donateurs, ils (Close the Gap ou les partenaires donateurs eux-même) impriment des étiquettes avec les QR code et les ID Close the Gap. Ils les collent sur les ordinateurs. Ils les scannent puis renseignent simplement le numéro de série de la machine.
 
-## Fonctionnalités
+#### Fonctionnalités
 
-### Schéma Shipping (changement localisation physique)
+##### Schéma Shipping (changement localisation physique)
 Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieurs laptops.
-#### ENVOI
+
+**ENVOI**
+
 1. set **origine** et destination
 2. scan du QR Code
 3. envoi physique
-#### RECEPTION
+
+**RECEPTION**
+
 1. réception physique
 2. set **destination**
 3. scan du QR code pour confirmer les réception
