@@ -100,7 +100,13 @@ Au scan du QR code :
             - panne non identifiée
         - cassé à recycler 
         - disparu/volé, 
-- type activité (éducation/choix multiples)
+- type activité
+    - Education
+    - Innovation
+    - Digital Skills
+    - Gender (inclusion)
+    - Social
+    - Migration
 - type d'utilisateur : 
     - unique (si unique, alors possibilité pour l'utilisateur d'avoir un profil user dans l'application)
     - multiple
