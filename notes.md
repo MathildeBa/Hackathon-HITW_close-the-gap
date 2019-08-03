@@ -56,13 +56,17 @@ Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieu
 ## Interfaces
 
 ### INTERFACE Close The Gap : 
-- Localisation au scan du QR Code,
-- statut d'ordinateur 
-    - Localisation
+Localisation au scan du QR Code :
+- Traçage
+    - numéro de série de la machine
+    - ID Close The Gap
+    - QR CODE
+- Localisation
         - pays, 
         - région, 
         - ville, 
         - nom du partenaire
+- statut d'ordinateur 
     - (premier encodage), 
     - utilisation (y/n), 
     - état 
@@ -73,11 +77,8 @@ Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieu
             - panne non identifée 
         - cassé à recycler
     - disparu/volé
-- traçage
-    - numéro de série de la machine
-    - ID Close The Gap
-    - QR CODE
-- toutes les infos qui suivent seront dispos pour Close The Gap
+
+Toutes les infos qui suivent seront dispos pour Close The Gap
 
 => tout cela crée un historique et donc un rapport sur la vie du PC
 
@@ -107,6 +108,7 @@ Au scan du QR code :
     - Gender (inclusion)
     - Social
     - Migration
+    - Healthcare
 - type d'utilisateur : 
     - unique (si unique, alors possibilité pour l'utilisateur d'avoir un profil user dans l'application)
     - multiple
