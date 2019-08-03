@@ -19,8 +19,6 @@ Trois utilisateurs :
 
 ## Fonctionnalités
 
-
-
 ### Schéma Shipping (changement localisation physique)
 Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieurs laptops.
 #### ENVOI
@@ -55,30 +53,55 @@ Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieu
 ### INTERFACE Close The Gap : 
 - Localisation au scan du QR Code,
 - statut d'ordinateur 
+    - Localisation
+        - pays, 
+        - région, 
+        - ville, 
+        - nom du partenaire
     - (premier encodage), 
     - utilisation (y/n), 
     - état 
+        - OK
         - cassé à réparer
             - hardware, 
             - software, 
             - panne non identifée 
         - cassé à recycler
-        - ok
-    - localisation, 
     - disparu/volé
-- traçage : numéro de série de la machine  + ID : QR CODE
+- traçage
+    - numéro de série de la machine
+    - ID Close The Gap
+    - QR CODE
 - toutes les infos qui suivent seront dispos pour Close The Gap
 
 => tout cela crée un historique et donc un rapport sur la vie du PC
 
 ### INTERFACE Gestionnaire local :
-- localisation au scan du QR Code
-- statut d'ordinateur, utilisation (y/n), état (cassé à réparer / cassé à recycler, ok), si cassé (hardware, software,ne sait pas), disparu/volé, 
+Au scan du QR code :
+- Localisation
+    - pays, 
+    - région, 
+    - ville, 
+    - tag pour projet/classe
+- statut d'ordinateur, 
+    - En stock
+        - yes
+        - no
+    - état
+        - OK
+        - cassé à réparer 
+            - hardware 
+            - software 
+            - panne non identifiée
+        - cassé à recycler 
+        - disparu/volé, 
 - type activité (éducation/choix multiples)
 - type d'utilisateur : 
     - unique (si unique, alors possibilité pour l'utilisateur d'avoir un profil user dans l'application)
     - multiple
-- fréquence (full time/occasionnel/disponible)
+- fréquence 
+    - full time
+    - occasionnel
 
 ### INTERFACE Utilisateur Final (si type user unique) : 
 - nom, 
@@ -87,4 +110,3 @@ Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieu
 - tag/keyword. Pour renseigner le nom de la classe ou du projet auquel la machine va servir.
 - tranche age,
 - activité (choix multiples), 
-- localisation (normalement doit correspondre avec la localisation de la machine)
