@@ -1,3 +1,7 @@
+Version Prototype Codee. 
+
+https://github.com/BertrandMarlair/HITW
+
 # LAPGAP: Project "Close The Gap" during Hackathon HITW
 - **Event** : Hackathon "Hack In The Wood". 
 - From August 1st to August 4th 2019
