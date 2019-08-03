@@ -4,7 +4,7 @@
 - **Project**: Close the Gap
 
 ## Why we choose this project
-**Original pitch of the project**:   
+### Original pitch of the project  
 Close the Gap récupère et remet en service des ordinateurs et les envoie en Afrique. Cependant, il est
 difficile de pouvoir suivre leur évolution (où ils sont, sont-ils utilisés, dans quel but, par qui ?).
 ➢ Logiciel permettant de savoir où et comment les PC donnés en Afrique sont utilisés.
@@ -16,10 +16,15 @@ les tracker et suivre leur évolution jusqu’à la réception dans le pays envo
 
 **Video**: https://www.facebook.com/MICBelgique/videos/1234092483427454/
 
-**BeCode & Close The Gap**
+### BeCode & Close The Gap
 Since day 1, Close the Gap is helping BeCode to provide a free environment of training. Thanks to our partner, learners are able to have a free computer during 7 months. That's why we decided to help Close the Gap, because they're helping us for two and a half years.
 
 We want to thank [Didier Appels](https://www.linkedin.com/in/didier-appels-75a7703/) from Close the Gap for his help. Thanks to him, we better understant the needs of this NGO.
+
+## First notes
+=> [Notes](notes.md)
+
+
 
 ## Credits
 - [Mathilde](http://github.com/MathildeBa)
