@@ -17,6 +17,9 @@ Trois utilisateurs :
 - Les gestionnaires locaux & Close The Gap devraient avoir un système de suivi : en plus d'un avantage logistique sur l'état/statut (! fonctionne/ne fonctionne pas) du PC, ils veulent savoir où ils vont et à quel but, quels projets (!) ils auront servi.
 - Il faut mettre en place un système de monitoring géolocalisé du statut de PC et son utilisation (projet + infos users de base)
 
+## 📜 Storytelling 
+Ils reçoivent les ordinateurs des partenaires donateurs, ils (Close the Gap ou les partenaires donateurs eux-même) impriment des étiquettes avec les QR code et les ID Close the Gap. Ils les collent sur les ordinateurs. Ils les scannent puis renseignent simplement le numéro de série de la machine.
+
 ## Fonctionnalités
 
 ### Schéma Shipping (changement localisation physique)
@@ -41,7 +44,7 @@ Même système que pour DHL, TNT,... Doit pouvoir fonctionner pour un ET plusieu
 3. Définir la ville
 4. Définir le partenaire
 
-#### POur changer le statut pour gestionnaire local
+#### Pour changer le statut pour gestionnaire local
 1. Définir la localité/projet
 2. Définir si pour un ou plusieurs utilisateurs
 - Si un utilisateur => L'utilisateur final, en scannant le QR code, pourra se créer un compte sur la plateforme pour renseigner l'état de son ordinateur depuis son smartphone.
