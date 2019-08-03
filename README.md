@@ -23,7 +23,8 @@ les tracker et suivre leur évolution jusqu’à la réception dans le pays envo
 ### BeCode & Close The Gap
 Since day 1, Close the Gap is helping BeCode to provide a free environment of training. Thanks to our partner, learners are able to have a free computer during 7 months. That's why we decided to help Close the Gap, because they're helping us for two and a half years.
 
-We want to thank [Didier Appels](https://www.linkedin.com/in/didier-appels-75a7703/) from Close the Gap for his help. Thanks to him, we better understant the needs of this NGO.
+We want to thank [Didier Appels](https://www.linkedin.com/in/didier-appels-75a7703/) from Close the Gap for his help. Thanks to him, we better understant the needs of this NGO.    
+Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/peter-manderick-6a30356/)
 
 ## First notes
 => [Notes](notes.md)
