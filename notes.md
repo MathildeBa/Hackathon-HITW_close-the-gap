@@ -1,5 +1,11 @@
 # Notes
 
+## QA avec Close the Gap
+- Les partenaires receveurs peuvent avoir plusieurs personnes de contact pas situées au même endroit.
+- Les partenaires donateurs proviennent à 80% de la Belgique et des Pays-Bas. Puis viennent la France, la Grande Bretagne, le Luxembourg, la Suisse.
+- La fréquence des rapports d'état des ordinateurs devrait se faire idéalement tous les deux mois mais en vérité, ils font un rapport annuel à la moitié de l'année. Il faudrait avoir les infos pour cette période.
+- Faut-il des informations concernant l'activité, l'utilisation des ordinateurs ? Non. Le mieux serait de savoir combien d'heures l'ordinateur est utilisé mais surtout s'il fonctionne.
+
 ## PC Localisation - Problématique
 
 Trois utilisateurs :
@@ -16,7 +22,7 @@ Trois utilisateurs :
 - Il faut mettre en place un système de monitoring géolocalisé du statut de PC et son utilisation (projet + infos users de base)
 
 #### 📜 Storytelling 
-Ils reçoivent les ordinateurs des partenaires donateurs, ils (Close the Gap ou les partenaires donateurs eux-même) impriment des étiquettes avec les QR code et les ID Close the Gap. Ils les collent sur les ordinateurs. Ils les scannent puis renseignent simplement le numéro de série de la machine.
+Les gestionnaires de flotte reçoivent les ordinateurs des partenaires donateurs, ils (Close the Gap ou les partenaires donateurs eux-même) impriment des étiquettes avec les QR code et les ID Close the Gap. Ils les collent sur les ordinateurs. Ils les scannent puis renseignent simplement le numéro de série de la machine.
 
 #### Fonctionnalités
 
@@ -122,3 +128,14 @@ Au scan du QR code :
 - sexe, 
 - tag/keyword. Pour renseigner le nom de la classe ou du projet auquel la machine va servir.
 - tranche age
+
+
+## Gamification
+
+Les utilisateurs finaux doivent prendre soin des ordinateurs. Au plus, les gens autour de lui auront pris soin ce l'objet, au plus il est content.
+Pour continuer à prendre soin de l'ordi, on lui dit de faire plusieurs trucs : 
+Badge assigné à l'ordinateur, pas à la personne. La personne reçoit donc un ordinateur avec un historique, un vécu.
+- RunTest 2x/mois (1 badge) pour avoir des informations sur l'état de la machine.
+- Questions caca (1 badge)
+- Donner des précisions sur l'utilisation et les projets que tu fais. (1 badge)
+Stickers sont donnés avec les ordinateurs (physiques) et stockés sur la plateforme pour faire foi.
