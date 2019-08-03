@@ -113,5 +113,4 @@ Au scan du QR code :
 - prénom, 
 - sexe, 
 - tag/keyword. Pour renseigner le nom de la classe ou du projet auquel la machine va servir.
-- tranche age,
-- activité (choix multiples), 
+- tranche age
