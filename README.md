@@ -26,8 +26,11 @@ Since day 1, Close the Gap is helping BeCode to provide a free environment of tr
 We want to thank [Didier Appels](https://www.linkedin.com/in/didier-appels-75a7703/) from Close the Gap for his help. Thanks to him, we better understant the needs of this NGO.    
 Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/peter-manderick-6a30356/)
 
-## First notes
-=> [Notes](notes.md)
+## Ressources
+- [Illustrations from "Iconscout by Icondrop"](https://iconscout.com/icondrop/)  
+- [Slide Presentation of AppTheGap prototype](https://drive.google.com/file/d/0B3HtUMZ8bWh0T0x3VV9SQXA2UkpPdEpTM2EzTVVVR0lVWGx3/view?usp=sharing)
+-  [About our client, Close The Gap - Activity Report 2017](https://www.close-the-gap.org/binaries/content/assets/close-the-gap/activity-reports/ctg_web_activityreport_2017.pdf)
+
 
 
 
