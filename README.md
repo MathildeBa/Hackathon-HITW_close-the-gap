@@ -35,10 +35,21 @@ Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/pe
 
 
 ## Credits
+
+
+## Team 🔌
+| Mathilde BAQUET | Corneliu GAINA | Andres GOLDESTEIN | Emily MARGHELLA | Bertrand MARLAIR | Jean-Marc BROUTIN | Pierre-Louis PICARD | Teddy WAUQUIER | Pablo MOMBO RASERO 
+| :---: |:---:| :---:| :---:| :---: |:---:| :---:| :---:|:---:|
+
+|<img src="https://avatars0.githubusercontent.com/u/46488203?s=400&v=4" width="300" />|<img src="https://avatars2.githubusercontent.com/u/46483828?s=400&u=66a582c90b3584cf4d9b6a6ed96b2037f927e59f&v=4" width="300" />| <img src="https://avatars3.githubusercontent.com/u/39053043?s=400&v=4" width="300" />|  <img src="https://avatars1.githubusercontent.com/u/46483156?s=400&v=4" width="300" />|
+| <a href=http://github.com/MathildeBa" target="_blank">`github.com/MathildeBa`</a> | <a href="http://github.com/corneliushka" target="_blank">`github.com/corneliushka`</a>  | <a href="http://github.com/AndresGol" target="_blank">`github.com/AndresGol</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> |
+
+
 - [Mathilde](http://github.com/MathildeBa)
 - [Corneliu](http://github.com/corneliushka)
 - [Andres](http://github.com/AndresGol)
 - [Emily](http://github.com/webmae)
+*
 - [Bertrand](http://github.com/Bertrandmarlair)
 - [Jean-Marc](http://github.com/jmbroutin)
 - [Pierre-Louis](http://github.com/pierrelouis242)
