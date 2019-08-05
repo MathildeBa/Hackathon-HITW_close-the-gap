@@ -38,7 +38,7 @@ Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/pe
 
 
 ## Team 🔌
-| Mathilde BAQUET | Corneliu GAINA | Andres GOLDESTEIN | Emily MARGHELLA 
+| Team Member | first/last name| LinkedIn | GitHub 
 | :---: | :---: | :---: | :---: |
 |<img src="https://media.licdn.com/dms/image/C5603AQHuncCjWbovtg/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=8wSVFT2g5Pu0zxP2KNaN2VII7p_zW-6nPmHmDoVoaFE" width="300" />
 |<img src="https://media.licdn.com/dms/image/C5603AQFqPXmNVLzGbA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=OsP5KzS-a1CtQC3opyIYPjKfK0B4Cx6xl8Bt3z_V2Fg" width="300" />
