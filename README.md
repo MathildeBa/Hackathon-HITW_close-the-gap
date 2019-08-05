@@ -1,7 +1,7 @@
 # Version Prototype Codee. 
 https://github.com/BertrandMarlair/HITW
 
-# XD's MockUp Prototype  
+#  MockUp Prototype  
 https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen
 
 
@@ -29,6 +29,13 @@ Since day 1, Close the Gap is helping BeCode to provide a free environment of tr
 
 We want to thank [Didier Appels](https://www.linkedin.com/in/didier-appels-75a7703/) from Close the Gap for his help. Thanks to him, we better understant the needs of this NGO.    
 Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/peter-manderick-6a30356/)
+
+## Technologies Used for the Hackathon 
+
+- ReactJS (frontend) + MeteorJS (backend capabilities)
+- MongoDB (database)
+- Adobe XD (mockup prototyping)
+- Adobe Illustrator (to create vector graphics)
 
 ## Ressources
 - [Illustrations from "Iconscout by Icondrop"](https://iconscout.com/icondrop/)  
