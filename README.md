@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/12-pEuroKid1a-934Ac3SRGmUIglWRCcG/view" width="500" />
+<img src="https://raw.githubusercontent.com/MathildeBa/Hackathon-HITW_close-the-gap/master/doc/AppTheGap_visual.jpeg" width="500" />
 
 # [Version Prototype Codee](https://github.com/BertrandMarlair/HITW)
 
