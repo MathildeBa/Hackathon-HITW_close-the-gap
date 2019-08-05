@@ -38,26 +38,19 @@ Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/pe
 
 
 ## Team 🔌
-| Pictures | Team Member | LinkedIn | GitHub 
+| Pictures | Team Member | GitHub | LinkedIn
 | :---: | :---: | :---: | :---: |
 |<img src="https://media.licdn.com/dms/image/C5603AQHuncCjWbovtg/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=8wSVFT2g5Pu0zxP2KNaN2VII7p_zW-6nPmHmDoVoaFE" width="300" /> | Mathilde Baquet | [MathildeBa](http://github.com/MathildeBa) | [https://www.linkedin.com/in/mathilde-baquet-b44440122/](https://www.linkedin.com/in/mathilde-baquet-b44440122/)
-|<img src="https://media.licdn.com/dms/image/C5603AQFqPXmNVLzGbA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=OsP5KzS-a1CtQC3opyIYPjKfK0B4Cx6xl8Bt3z_V2Fg" width="300" />
-|<img src="https://media.licdn.com/dms/image/C5603AQGnZ6f_0n9KQA/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=nllApnJfOy2mylP-D9aK0jaFpu67JCgsE0GOrpHiLms" width="300" />
-|<img src="https://media.licdn.com/dms/image/C4D03AQHFcIma0ZtIWA/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=D3XkGeyI2mmiDJ77H1mI9BmtgOchHlZHHFFoAqj0sHM" width="300" />
+|<img src="https://media.licdn.com/dms/image/C5603AQFqPXmNVLzGbA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=OsP5KzS-a1CtQC3opyIYPjKfK0B4Cx6xl8Bt3z_V2Fg" width="300" /> | [corneliushka](http://github.com/corneliushka) | [https://www.linkedin.com/in/corneliugaina/](https://www.linkedin.com/in/corneliugaina/)
+|<img src="https://media.licdn.com/dms/image/C5603AQGnZ6f_0n9KQA/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=nllApnJfOy2mylP-D9aK0jaFpu67JCgsE0GOrpHiLms" width="300" /> | [AndresGol](http://github.com/AndresGol) | [https://www.linkedin.com/in/emilymrghl/](https://www.linkedin.com/in/emilymrghl/)
+|<img src="https://media.licdn.com/dms/image/C4D03AQHFcIma0ZtIWA/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=D3XkGeyI2mmiDJ77H1mI9BmtgOchHlZHHFFoAqj0sHM" width="300" /> | [webmae](http://github.com/webmae) | [https://www.linkedin.com/in/emilymrghl/](https://www.linkedin.com/in/emilymrghl/)
+|<img src="" width="300" /> | Bertrand MARLAIR | [Bertrandmarlair](http://github.com/Bertrandmarlair) | [https://www.linkedin.com/in/bertrand-marlair/](https://www.linkedin.com/in/bertrand-marlair/)
+|<img src="https://media.licdn.com/dms/image/C4D03AQER5GK9agXgAQ/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=7D9PF4W_jitVfp0kp001ChsfSJMWVq0SSQaG7Armr9E" width="300" /> | Jean-Marc BROUTIN | []() | []()
+|<img src="" width="300" /> | Pierre-Louis PICARD | []() | []()
+|<img src="" width="300" /> | Teddy WAUQUIER | []() | []()
+|<img src="" width="300" /> | Pablo MOMBO RASERO | []() | []()
 
-
-| Bertrand MARLAIR | Jean-Marc BROUTIN | Pierre-Louis PICARD | Teddy WAUQUIER | Pablo MOMBO RASERO |
-
-
-
-| Mathilde BAQUET | [MathildeBa](http://github.com/MathildeBa)
-
-
-- [Mathilde](http://github.com/MathildeBa)
-- [Corneliu](http://github.com/corneliushka)
-- [Andres](http://github.com/AndresGol)
-- [Emily](http://github.com/webmae)
-*
+ 
 - [Bertrand](http://github.com/Bertrandmarlair)
 - [Jean-Marc](http://github.com/jmbroutin)
 - [Pierre-Louis](http://github.com/pierrelouis242)
