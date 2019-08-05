@@ -1,9 +1,11 @@
 
 <img src="https://raw.githubusercontent.com/MathildeBa/Hackathon-HITW_close-the-gap/master/doc/AppTheGap_visual.jpeg" width="500" />
 
-# [Version Prototype Codee](https://github.com/BertrandMarlair/HITW) - [https://github.com/BertrandMarlair/HITW](https://github.com/BertrandMarlair/HITW)
+# [Version Prototype Codee](https://github.com/BertrandMarlair/HITW) 
+[https://github.com/BertrandMarlair/HITW](https://github.com/BertrandMarlair/HITW)
 
-# [MockUp Prototype](https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen) - [https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen](https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen)
+# [MockUp Prototype](https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen)
+[https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen](https://xd.adobe.com/view/20379ec7-f184-40d4-44e0-c477a03f5699-5606/screen/a77752db-59ae-4425-9e05-ec8e2dbfe083/Landing-page/?fullscreen)
 
 
 # App The Gap: Project "Close The Gap" during Hackathon HITW
