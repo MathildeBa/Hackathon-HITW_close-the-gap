@@ -40,19 +40,15 @@ Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/pe
 ## Team 🔌
 | Mathilde BAQUET | Corneliu GAINA | Andres GOLDESTEIN | Emily MARGHELLA 
 | :---: | :---: | :---: | :---: |
-|<img src="https://media.licdn.com/dms/image/C5603AQHuncCjWbovtg/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=8wSVFT2g5Pu0zxP2KNaN2VII7p_zW-6nPmHmDoVoaFE" width="50" />
-|<img src="https://media.licdn.com/dms/image/C5603AQFqPXmNVLzGbA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=OsP5KzS-a1CtQC3opyIYPjKfK0B4Cx6xl8Bt3z_V2Fg" width="50" />| <img src="https://avatars3.githubusercontent.com/u/39053043?s=400&v=4" width="50" />
-|<img src="https://avatars1.githubusercontent.com/u/46483156?s=400&v=4" width="50" />|
-|<img src="https://media.licdn.com/dms/image/C5603AQHuncCjWbovtg/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=8wSVFT2g5Pu0zxP2KNaN2VII7p_zW-6nPmHmDoVoaFE" width="50" />
+|<img src="https://media.licdn.com/dms/image/C5603AQHuncCjWbovtg/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=8wSVFT2g5Pu0zxP2KNaN2VII7p_zW-6nPmHmDoVoaFE" width="300" />
+|<img src="https://media.licdn.com/dms/image/C5603AQFqPXmNVLzGbA/profile-displayphoto-shrink_200_200/0?e=1570665600&v=beta&t=OsP5KzS-a1CtQC3opyIYPjKfK0B4Cx6xl8Bt3z_V2Fg" width="300" />
+|<img src="https://media.licdn.com/dms/image/C5603AQGnZ6f_0n9KQA/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=nllApnJfOy2mylP-D9aK0jaFpu67JCgsE0GOrpHiLms" width="300" />
+|<img src="https://media.licdn.com/dms/image/C4D03AQHFcIma0ZtIWA/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=D3XkGeyI2mmiDJ77H1mI9BmtgOchHlZHHFFoAqj0sHM" width="300" />
 
 
 | Bertrand MARLAIR | Jean-Marc BROUTIN | Pierre-Louis PICARD | Teddy WAUQUIER | Pablo MOMBO RASERO |
 
 | :---: | :---: | :---: | :---: |
-|<img src="https://avatars2.githubusercontent.com/u/46483828?s=400&u=66a582c90b3584cf4d9b6a6ed96b2037f927e59f&v=4" width="30" />| <img src="https://avatars3.githubusercontent.com/u/39053043?s=400&v=4" width="50" />
-|  <img src="https://avatars1.githubusercontent.com/u/46483156?s=400&v=4" width="50" />
-|
-| <a href=http://github.com/MathildeBa" target="_blank">`github.com/MathildeBa`</a> | <a href="http://github.com/corneliushka" target="_blank">`github.com/corneliushka`</a>  | <a href="http://github.com/AndresGol" target="_blank">`github.com/AndresGol</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> | <a href="http://github.com/webmae" target="_blank">`github.com/webmae`</a> |
 
 
 - [Mathilde](http://github.com/MathildeBa)
