@@ -139,3 +139,10 @@ Badge assigné à l'ordinateur, pas à la personne. La personne reçoit donc un 
 - Questions caca (1 badge)
 - Donner des précisions sur l'utilisation et les projets que tu fais. (1 badge)
 Stickers sont donnés avec les ordinateurs (physiques) et stockés sur la plateforme pour faire foi.
+
+## Pictures of our notes
+
+[Link towards our PDF presentation](doc/AppTheGap_ShortPresentation.pdf)
+![](doc/lapgap-architectue.jpeg)
+![](doc/lapgap-prescreens.jpeg)
+![](doc/AppTheGap_visual.jpeg)

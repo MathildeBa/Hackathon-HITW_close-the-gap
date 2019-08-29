@@ -58,4 +58,7 @@ Other contact at Close The Gap: [Peter Manderick](https://www.linkedin.com/in/pe
 |<img src="https://media.licdn.com/dms/image/C5103AQEJiOfITNNFww/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=b7Ink1uslStvrac-95PA6lwtcgaq6ecfHsGfhK816zY" width="300" /> | Teddy WAUQUIER | [Elleonors](http://github.com/Elleonors) | [https://www.linkedin.com/in/teddy-wauquier-8b2388179/](https://www.linkedin.com/in/teddy-wauquier-8b2388179/)
 |<img src="https://media.licdn.com/dms/image/C4E03AQHq_nvpp336qQ/profile-displayphoto-shrink_800_800/0?e=1570665600&v=beta&t=FflD95cA59P6MCfUpi265fmuUKc2TSJnceKrXooifJA" width="300" /> | Pablo MOMBO RASERO | [Pablomombo](http://github.com/Pablomombo) | [https://www.linkedin.com/in/pablo-mombo-rasero/](https://www.linkedin.com/in/pablo-mombo-rasero/)
 
- 
+ ## Pictures of the team
+
+ ![](CTG-BeCode-HITW2019a.jpg)
+![](CTG-BeCode-HITW2019b.jpg)
